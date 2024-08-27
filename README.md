@@ -30,13 +30,8 @@
 ## Current Stats
 
 <div align="center">
-  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlimon&theme=github_dark" width="98%" />
-
-
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devlimon&theme=github_dark&utcOffset=8" width="32.5%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devlimon&theme=github_dark" width="32.5%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devlimon&theme=github_dark" width="32.5%" />
-  
-
 </div>
