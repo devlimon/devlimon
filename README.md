@@ -1,17 +1,7 @@
-## Hi there 👋
-
-<!--
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on AI & Blockchain apps
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate with businesses
+- 🤔 I’m looking for help junior developers
 
 
 <h1 align="center">Hi 👋, I'm <span style="color: #1E88E5">Md Altaf Hossain</span></h1>
@@ -50,4 +40,4 @@
   
   </div>
 
-</div>-->
+</div>
