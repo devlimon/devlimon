@@ -19,7 +19,7 @@
 
 <h2>Carrer Summary</h2>
 
-⚡Full-Stack developer with 6+ years of  experience in web application development.<br>
+⚡Full-Stack developer with 8+ years of  experience in web application development.<br>
 ⚡Expertise in building & maintaining large-scale applications.<br>
 ⚡Proficiency in Server Deployment on AWS,Azuer,GCP, VPS.<br>
 ⚡Having experience with Team Leading.<br>
