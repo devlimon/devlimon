@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlimon&label=Profile%20views&color=0e75b6&style=flat" alt="anik2069" height="24"/> </p>
 
 
-- 🔭 I’m currently leading the tech team as Chief Technology Officer(CTO) at [SoftNursery](https://softnurser.com/)
+- 🔭 I’m currently leading the tech team as Chief Technology Officer(CTO) at [SoftNursery](https://softnursery.com/)
 
 - 💬 Reach me at my [email](mailto:altafhossainlimon@gmail.com) or [Skype](https://join.skype.com/invite/UIeHSXUbfbC3) or [Whatsapp](https://api.whatsapp.com/send?phone=8801518310469)
 
