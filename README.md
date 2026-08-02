@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on AI, AR, VR, 3D and Blockchain apps
-- 🌱 I’m currently learning Spatial Computing
-- 👯 I’m looking to improve the efficiency and effectiveness of your businesses through IT Solutions
-- 🤔 I’m looking to help junior developers
+- 🔭 Currently working to enhance the security of 130+ cloud applications developed over the past 8+ years. 
+- 👯 Passionate about building IT solutions that improve business efficiency and effectiveness.
+- 🤔 Always open to mentoring junior developers and helping them grow.
 
 
 <h1 align="center">Hi 👋, I'm <span style="color: #1E88E5">Md Altaf Hossain</span></h1>
